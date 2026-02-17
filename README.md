@@ -5,6 +5,7 @@ This project analyzes **Super Store sales data** using Power BI to uncover sales
 ## 📸 Dashboard Preview
 
 ![Super Store Sales Dashboard](dashboard.png)
+![Super Store Sales Dashboard](forecastDashboard.png)
 
 ### 🔹 Key Insights
 - Total Sales: 1.6M  
