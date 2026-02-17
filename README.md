@@ -33,7 +33,8 @@ This project analyzes **Super Store sales data** using Power BI to uncover sales
 ### 📂 Files
 - `SuperStore_Sales_Dashboard.pbix` – Power BI report  
 - `SuperStore_Sales_Dashboard.pdf` – Exported dashboard  
-- `dashboard.png` – Dashboard preview  
+- `dashboard.png` – Dashboard preview
+- `forecastDashboard.png` – Forecast Dashboard preview  
 
 ### 📌 How to Use
 Download the `.pbix` file and open it in **Power BI Desktop** to explore interactive insights.
